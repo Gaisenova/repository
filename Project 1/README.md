@@ -1,3 +1,7 @@
+ **Анализ товарного ассортимента**
+ 
+ [project 1](https://github.com/Gaisenova/repository/blob/main/Project%201/Analysis%20of%20the%20product%20range%20online%20.ipynb)
+ 
  **Цели проекта:**
  
    - Анализировать товарный ассортимент
