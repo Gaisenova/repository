@@ -30,3 +30,6 @@
  - SciPy
  - Seaborn
  - Scikit-learn
+-  KMeans
+-  RandomForestClassifier
+-  LogisticRegression
