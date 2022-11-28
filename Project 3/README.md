@@ -1,5 +1,6 @@
 ## Определение выгодного тарифа телеком-компании
-[Project 3](https://github.com/Gaisenova/repository/tree/main/Project%203)
+
+[Project 3](https://github.com/Gaisenova/repository/blob/main/Project%203/Favorable%20tariff%20for%20a%20telecom%20company.ipynb)
 
 **Цель проекта:**
 
