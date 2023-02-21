@@ -1,6 +1,7 @@
 ### Проект подготовлен в рамках мастерской Яндекс Практикума.Заказчик Chargex - Удобный сервис зарядки гаджетов.
 
-[Project 5](https://github.com/Gaisenova/repository/blob/main/Project%203/Favorable%20tariff%20for%20a%20telecom%20company.ipynb)
+[Project 5](https://github.com/Gaisenova/repository/blob/main/Project%205/Chargex_portfolio.ipynb)
+
 Цель проекта:
 
 Анализировать данные о использовании сервиса зарядки гаджетов и сформировать рекомендации развития.
@@ -13,6 +14,7 @@
    - сформировать рекомендации развития
 
 Библиотеки:
+
 - Pandas
 - Math
 - Numpy 
