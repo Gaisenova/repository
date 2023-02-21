@@ -35,6 +35,6 @@
 
 - Мастерская _Заказчик Chargex.
 
- на основе данных о нахождения станций категоризированы заведения и сформированы рекомендации развития. [project 5](https://github.com/Gaisenova/repository/tree/main/Progect%205)
+ на основе данных о нахождения станций категоризированы заведения и сформированы рекомендации развития. [project 5](https://github.com/Gaisenova/repository/tree/main/Project%205)
 
 
