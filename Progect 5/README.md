@@ -14,7 +14,7 @@
 Библиотеки:
 - Pandas
 - Math
-- Mumpy 
+- Numpy 
 - Matplotlib
 - Seaborn
 
